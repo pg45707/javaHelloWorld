@@ -5,6 +5,7 @@ public class JenkinsTest {
 
 		System.out.println("Hello Jenkins !!!");
 		System.out.println("SUCESSFULLY IMPLEMENTED AND DEPLOYED JENKINS WITH GIT");
+		System.out.println("Nabajit you rocks !!!.");
 
 	}
 
